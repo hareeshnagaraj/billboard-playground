@@ -1,0 +1,16 @@
+{
+  "name": "billboard-charts",
+  "version": "1.0.0",
+  "description": "Dynamic Billboard Charts",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": ["billboard", "music", "charts", "html"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
